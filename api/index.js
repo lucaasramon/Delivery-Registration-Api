@@ -1,10 +1,9 @@
 const express = require("express");
 const routes = require("./routes");
-// cors é a integração do back com o front.
 const cors = require("cors");
 
 const app = express();
-require("./config/dbConfig");
+require("./database/database-config");
 
 app.use(cors());
 app.use(express.json());

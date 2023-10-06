@@ -1,5 +1,3 @@
-# Back end do projeto "[front-appbrenna](https://github.com/lucaasramon/ProjetoReact)"
-
 - Este projeto foi criando apenas para fins de aprendizagem, aqui eu tento adicionar o que estou tentando aprender no momento. 
 
 - Nesse mini sistema responsivo, permite que uma psicologa cadastre seus pacientes e permite o cadastro de algumas tarefas que são passadas
